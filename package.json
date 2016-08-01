@@ -1,0 +1,19 @@
+{
+  "name": "react-native-colview",
+  "version": "1.0.0",
+  "description": "only used to the col",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nickshi/react-native-colview.git"
+  },
+  "author": "junhua shi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nickshi/react-native-colview/issues"
+  },
+  "homepage": "https://github.com/nickshi/react-native-colview#readme"
+}
